@@ -2,7 +2,7 @@ const Project = (props) => {
     return (
         <div className="projectContainer" onClick={props.onClick}>
             <div className="leftCol">
-                <div className="img-container">
+                <div className="imgContainer">
                     <img src={props.data.img} alt="" />
                 </div>
             </div>

@@ -47,14 +47,14 @@
   scale: 0.98;
 }
 
-.projectContainer .left-col {
+.projectContainer .leftCol {
   width: 45%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.projectContainer .img-container {
+.projectContainer .imgContainer {
   width: 20rem;
   display: flex;
   justify-content: center;
@@ -64,11 +64,11 @@
   border-radius: 10px;
 }
 
-.projectContainer .left-col img {
+.projectContainer .leftCol img {
   width: 100%;
 }
 
-.projectContainer .right-col {
+.projectContainer .rightCol {
   width: 55%;
   display: flex;
   flex-direction: column;
