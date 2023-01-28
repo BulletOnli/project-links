@@ -15,7 +15,7 @@ const projectData = [
     },
     {
         title: 'IceFlix',
-        description: "A movie app where you can't even watch a movie",
+        description: "A movie app where you cant even watch a movie",
         img: require('../src/images/iceflix.png'),
         url: 'https://iceflix.netlify.app/',
         id: 3,

@@ -1,14 +1,14 @@
 const Project = (props) => {
     return (
-        <div className="project-container" onClick={props.onClick}>
-            <div className="left-col">
+        <div className="projectContainer" onClick={props.onClick}>
+            <div className="leftCol">
                 <div className="img-container">
                     <img src={props.data.img} alt="" />
                 </div>
             </div>
-            <div className="right-col">
-                <p className="project-title">{props.data.title}</p>
-                <p className="project-description">
+            <div className="rightCol">
+                <p className="projectTitle">{props.data.title}</p>
+                <p className="projectDescription">
                     {props.data.description}
                 </p>
             </div>

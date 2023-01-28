@@ -19,13 +19,13 @@
   padding: 2rem 1rem;
 }
 
-.header-title {
+.headerTitle {
   font-size: 3rem;
   font-weight: 800;
   margin: 1rem 0 5rem 0;
 }
 
-.project-container {
+.projectContainer {
   width: 50rem;
   height: 13rem;
   border: 2px solid black;
@@ -39,22 +39,22 @@
   cursor: pointer;
 }
 
-.project-container:hover {
+.projectContainer:hover {
   box-shadow: 0 0 18px rgba(0, 0, 0, 0.8);
 }
 
-.project-container:active {
+.projectContainer:active {
   scale: 0.98;
 }
 
-.project-container .left-col {
+.projectContainer .left-col {
   width: 45%;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.project-container .img-container {
+.projectContainer .img-container {
   width: 20rem;
   display: flex;
   justify-content: center;
@@ -64,24 +64,24 @@
   border-radius: 10px;
 }
 
-.project-container .left-col img {
+.projectContainer .left-col img {
   width: 100%;
 }
 
-.project-container .right-col {
+.projectContainer .right-col {
   width: 55%;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
-.project-title {
+.projectTitle {
   font-size: 1.8rem;
   font-weight: 800;
   margin: 1.5rem 0;
 }
 
-.project-description {
+.projectDescription {
   width: 22rem;
   text-align: center;
 }

@@ -6,7 +6,7 @@ import Project from "./components/Project";
 function App() {
   return (
     <>
-      <p className="header-title">My Projects</p>
+      <p className="headerTitle">My Projects</p>
       {projectData.map(data => (
         <Project key={data.id} data={data} onClick={() => window.open(data.url)}/>
       ))}
