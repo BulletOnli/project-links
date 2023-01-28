@@ -3,7 +3,6 @@ import './index.css'
 import projectData from "./projectData";
 import Project from "./components/Project";
 
-
 function App() {
   return (
     <>
