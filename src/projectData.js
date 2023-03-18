@@ -11,8 +11,16 @@ const projectData = [
     {
         title: "Bean Block v2",
         description: "Coffee website with Ordering system. (front-end only)",
-        img: require("../src/images/beanblock.png"),
+        img: require("../src/images/bb.png"),
         url: "https://beanblockv2.netlify.app/",
+        id: nanoid(),
+    },
+    {
+        title: "TypeMoko",
+        description:
+            "A typing website where you can test and improve your typing skills.",
+        img: require("../src/images/typemoko.png"),
+        url: "https://typemoko.netlify.app/",
         id: nanoid(),
     },
     {
