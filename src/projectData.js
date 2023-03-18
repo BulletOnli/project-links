@@ -9,19 +9,18 @@ const projectData = [
         id: nanoid(),
     },
     {
+        title: "Bean Block v2",
+        description: "Coffee website with Ordering system. (front-end only)",
+        img: require("../src/images/beanblock.png"),
+        url: "https://beanblockv2.netlify.app/",
+        id: nanoid(),
+    },
+    {
         title: "Weather App",
         description:
             "A real-time weather app. You can look up your country, city, province, etc.",
         img: require("../src/images/weatherapp.png"),
         url: "https://klimangayon.netlify.app/",
-        id: nanoid(),
-    },
-    {
-        title: "TypeMoko",
-        description:
-            "A typing website where you can test and improve your typing skills.",
-        img: require("../src/images/typemoko.png"),
-        url: "https://typemoko.netlify.app/",
         id: nanoid(),
     },
     {
