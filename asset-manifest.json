@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project-links/static/css/main.42e669e7.css",
-    "main.js": "/project-links/static/js/main.5ec39949.js",
+    "main.js": "/project-links/static/js/main.47d58734.js",
     "static/media/bb.png": "/project-links/static/media/bb.bc8f028554bccdef53ac.png",
     "static/media/beanblock.png": "/project-links/static/media/beanblock.aeac59e11d732ebfb9ed.png",
     "static/media/weatherapp.png": "/project-links/static/media/weatherapp.756d57434d0a8f16d0a1.png",
@@ -9,13 +9,14 @@
     "static/media/cooktopia.png": "/project-links/static/media/cooktopia.27c725e31bc35751b6ba.png",
     "static/media/iceflix.png": "/project-links/static/media/iceflix.f52adaa90223a744292b.png",
     "static/media/bg.jpg": "/project-links/static/media/bg.57e0f3f317e8c99e4b54.jpg",
+    "static/media/typemoko.png": "/project-links/static/media/typemoko.4346c8209e2f86a466d0.png",
     "static/media/msggenerator.png": "/project-links/static/media/msggenerator.bc462a8890b98bd14958.png",
     "index.html": "/project-links/index.html",
     "main.42e669e7.css.map": "/project-links/static/css/main.42e669e7.css.map",
-    "main.5ec39949.js.map": "/project-links/static/js/main.5ec39949.js.map"
+    "main.47d58734.js.map": "/project-links/static/js/main.47d58734.js.map"
   },
   "entrypoints": [
     "static/css/main.42e669e7.css",
-    "static/js/main.5ec39949.js"
+    "static/js/main.47d58734.js"
   ]
 }
