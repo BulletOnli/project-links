@@ -24,6 +24,13 @@ const projectData = [
         id: nanoid(),
     },
     {
+        title: "Payroll System",
+        description: "CRUD using JSON server (only works in local host)",
+        img: require("../src/images/payroll.png"),
+        url: "https://bulletpayroll.netlify.app/",
+        id: nanoid(),
+    },
+    {
         title: "Weather App",
         description:
             "A real-time weather app. You can look up your country, city, province, etc.",
