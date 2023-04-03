@@ -25,7 +25,7 @@ const projectData = [
     },
     {
         title: "Payroll System",
-        description: "CRUD using JSON server (only works in local host)",
+        description: "Payroll system using real server",
         img: require("../src/images/payroll.png"),
         url: "https://bulletpayroll.netlify.app/",
         id: nanoid(),
