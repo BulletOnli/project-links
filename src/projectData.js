@@ -31,11 +31,11 @@ const projectData = [
         id: nanoid(),
     },
     {
-        title: "Weather App",
+        title: "Fermented Rice",
         description:
-            "A real-time weather app. You can look up your country, city, province, etc.",
-        img: require("../src/images/weatherapp.png"),
-        url: "https://klimangayon.netlify.app/",
+            "Food website I created for my Client (my first client project)",
+        img: require("../src/images/fermentedrice.png"),
+        url: "https://fermentedrice.netlify.app/",
         id: nanoid(),
     },
     {
@@ -46,11 +46,11 @@ const projectData = [
         id: nanoid(),
     },
     {
-        title: "Fermented Rice",
+        title: "Weather App",
         description:
-            "Food website I created for my Client (my first client project)",
-        img: require("../src/images/fermentedrice.png"),
-        url: "#",
+            "A real-time weather app. You can look up your country, city, province, etc.",
+        img: require("../src/images/weatherapp.png"),
+        url: "https://klimangayon.netlify.app/",
         id: nanoid(),
     },
     {
