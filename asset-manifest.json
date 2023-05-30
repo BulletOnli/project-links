@@ -1,25 +1,27 @@
 {
   "files": {
     "main.css": "/project-links/static/css/main.42e669e7.css",
-    "main.js": "/project-links/static/js/main.f8a52f20.js",
+    "main.js": "/project-links/static/js/main.3dafe46c.js",
     "static/media/bb.png": "/project-links/static/media/bb.bc8f028554bccdef53ac.png",
     "static/media/beanblock.png": "/project-links/static/media/beanblock.aeac59e11d732ebfb9ed.png",
     "static/media/weatherapp.png": "/project-links/static/media/weatherapp.756d57434d0a8f16d0a1.png",
     "static/media/fermentedrice.png": "/project-links/static/media/fermentedrice.7c0d1b02c97c208f7897.png",
     "static/media/digimon.png": "/project-links/static/media/digimon.3db66b4f4c7c64f5fb27.png",
     "static/media/cooktopia.png": "/project-links/static/media/cooktopia.27c725e31bc35751b6ba.png",
+    "static/media/cigarettesex.png": "/project-links/static/media/cigarettesex.ff0934e46ca8199c7660.png",
     "static/media/iceflix.png": "/project-links/static/media/iceflix.f52adaa90223a744292b.png",
     "static/media/bg.jpg": "/project-links/static/media/bg.57e0f3f317e8c99e4b54.jpg",
+    "static/media/spotifly.png": "/project-links/static/media/spotifly.c240a4030451b39b9bd5.png",
     "static/media/stplanner.png": "/project-links/static/media/stplanner.053b1371d71bcf9a8251.png",
     "static/media/typemoko.png": "/project-links/static/media/typemoko.4346c8209e2f86a466d0.png",
     "static/media/msggenerator.png": "/project-links/static/media/msggenerator.bc462a8890b98bd14958.png",
     "static/media/payroll.png": "/project-links/static/media/payroll.f84be5fc1b59db5e9609.png",
     "index.html": "/project-links/index.html",
     "main.42e669e7.css.map": "/project-links/static/css/main.42e669e7.css.map",
-    "main.f8a52f20.js.map": "/project-links/static/js/main.f8a52f20.js.map"
+    "main.3dafe46c.js.map": "/project-links/static/js/main.3dafe46c.js.map"
   },
   "entrypoints": [
     "static/css/main.42e669e7.css",
-    "static/js/main.f8a52f20.js"
+    "static/js/main.3dafe46c.js"
   ]
 }
