@@ -46,11 +46,39 @@ const projectData = [
         id: nanoid(),
     },
     {
+        title: "Spotifly",
+        description: "A spotify clone with music functionalities",
+        img: require("../src/images/spotifly.png"),
+        url: "https://spotifli.netlify.app/",
+        id: nanoid(),
+    },
+    {
+        title: "Cigarretes After Sex",
+        description: "Cigarretes after sex band - Client project",
+        img: require("../src/images/cigarettesex.png"),
+        url: "https://cigaretteaftersex.netlify.app/",
+        id: nanoid(),
+    },
+    {
+        title: "Student Planner",
+        description: "Student planner - Client project",
+        img: require("../src/images/stplanner.png"),
+        url: "https://stplanner.netlify.app/",
+        id: nanoid(),
+    },
+    {
         title: "Weather App",
         description:
             "A real-time weather app. You can look up your country, city, province, etc.",
         img: require("../src/images/weatherapp.png"),
         url: "https://klimangayon.netlify.app/",
+        id: nanoid(),
+    },
+    {
+        title: "Digimon",
+        description: "Websites about Digimon",
+        img: require("../src/images/digimon.png"),
+        url: "https://bulletonli.github.io/Digimon/",
         id: nanoid(),
     },
     {
