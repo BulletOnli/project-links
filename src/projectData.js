@@ -2,10 +2,18 @@ import { nanoid } from "nanoid";
 
 const projectData = [
     {
-        title: "CookTopia",
-        description: "A dynamic recipe app made with React",
-        img: require("../src/images/cooktopia.png"),
-        url: "https://cooktopias.netlify.app/",
+        title: "Kwadernote",
+        description:
+            "Notes app with user authentication and database, made with NextJS and Firebase",
+        img: require("../src/images/kwadernote.png"),
+        url: "https://kwadernote.vercel.app/",
+        id: nanoid(),
+    },
+    {
+        title: "Payroll System",
+        description: "Payroll system using JSON server",
+        img: require("../src/images/payroll.png"),
+        url: "https://bulletpayroll.netlify.app/",
         id: nanoid(),
     },
     {
@@ -24,10 +32,10 @@ const projectData = [
         id: nanoid(),
     },
     {
-        title: "Payroll System",
-        description: "Payroll system using JSON server",
-        img: require("../src/images/payroll.png"),
-        url: "https://bulletpayroll.netlify.app/",
+        title: "CookTopia",
+        description: "A dynamic recipe app made with React",
+        img: require("../src/images/cooktopia.png"),
+        url: "https://cooktopias.netlify.app/",
         id: nanoid(),
     },
     {
