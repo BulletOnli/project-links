@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/project-links/static/css/main.42e669e7.css",
-    "main.js": "/project-links/static/js/main.3dafe46c.js",
+    "main.js": "/project-links/static/js/main.ba85be6c.js",
     "static/media/bb.png": "/project-links/static/media/bb.bc8f028554bccdef53ac.png",
     "static/media/beanblock.png": "/project-links/static/media/beanblock.aeac59e11d732ebfb9ed.png",
     "static/media/weatherapp.png": "/project-links/static/media/weatherapp.756d57434d0a8f16d0a1.png",
@@ -13,15 +13,16 @@
     "static/media/bg.jpg": "/project-links/static/media/bg.57e0f3f317e8c99e4b54.jpg",
     "static/media/spotifly.png": "/project-links/static/media/spotifly.c240a4030451b39b9bd5.png",
     "static/media/stplanner.png": "/project-links/static/media/stplanner.053b1371d71bcf9a8251.png",
+    "static/media/kwadernote.png": "/project-links/static/media/kwadernote.86c3c6da4bb7027c54fa.png",
     "static/media/typemoko.png": "/project-links/static/media/typemoko.4346c8209e2f86a466d0.png",
     "static/media/msggenerator.png": "/project-links/static/media/msggenerator.bc462a8890b98bd14958.png",
     "static/media/payroll.png": "/project-links/static/media/payroll.f84be5fc1b59db5e9609.png",
     "index.html": "/project-links/index.html",
     "main.42e669e7.css.map": "/project-links/static/css/main.42e669e7.css.map",
-    "main.3dafe46c.js.map": "/project-links/static/js/main.3dafe46c.js.map"
+    "main.ba85be6c.js.map": "/project-links/static/js/main.ba85be6c.js.map"
   },
   "entrypoints": [
     "static/css/main.42e669e7.css",
-    "static/js/main.3dafe46c.js"
+    "static/js/main.ba85be6c.js"
   ]
 }
